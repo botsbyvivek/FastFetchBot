@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "description": "An Telegram bot",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "FastFetchBot",
+  "scripts": {
+  },
+  "stack": "heroku-22"
+}
